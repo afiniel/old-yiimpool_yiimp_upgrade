@@ -6,7 +6,7 @@
 source /etc/functions.sh
 cd $HOME/yiimpool/yiimp_upgrade
 
-RESULT=$(dialog --stdout --nocancel --default-item 1 --title "YiiMP Pool Updater v4.7.2" --menu "Choose one" -1 65 7 \
+RESULT=$(dialog --stdout --nocancel --default-item 1 --title "YiiMP Pool Updater v4.7.3" --menu "Choose one" -1 65 7 \
 ' ' "- Upgrade Stratum and YiiMP Single Server Installation -" \
 1 "Upgrade YiiMP Single Server Installation" \
 ' ' "- Upgrade YiiMP Web Server Multi Server Installation -" \
