@@ -3,7 +3,7 @@
 # Updated by Afiniel for crypto use...                                          #
 #################################################################################
 
-message_box "Afiniel yiimpool Installer v4.7.3" \
+message_box "Afiniel yiimpool Installer v4.7.5" \
 "You have choosen to upgrade your YiiMP server(s)!
 \n\nWith so many custom YiiMP installations out there, this installer will ONLY upgrade the required stratum files.
 \n\nIf your pool has coins that require modifiaction to coinbase.cpp, please submit a request on our github at
